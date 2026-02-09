@@ -6,6 +6,8 @@ environmental problem. By recycling EPS waste into insulation panels, this proje
 environmental liability into an eco-friendly resource. The insulation panels made from recycled EPS 
 will help reduce indoor temperatures in hot climates, lowering the dependence on energy-intensive 
 cooling systems and reducing operational costs and carbon emissions. 
+
+
 The innovative process developed in this project includes not only the recycling of EPS but also the 
 recovery of harmful gases, such as pentane, styrene, and CO₂, during the process. This 
 comprehensive system ensures that the recycling process is both environmentally friendly and 
